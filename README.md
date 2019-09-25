@@ -26,10 +26,10 @@ I have created this script to setup development environment after fresh installa
 
 Download the .sh file in the repository and make it executable
 
-`chmod a+x my_ubuntu_setup.sh`
+`chmod a+x ubuntu_18_setup.sh`
 
 Execute the script now:
 
-`sh my_ubuntu_setup.sh`
+`sh ubuntu_18_setup.sh`
 
 For any contributions, feel free to make a pull request.
